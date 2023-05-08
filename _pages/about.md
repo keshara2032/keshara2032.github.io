@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 <br />
-<br />
 I am a first year Computer Engineering Ph.D student at the University of Virginia in the Dependable Systems and Analytics Lab. I received my B.S. in Computer Engineering from the University of Peradeniya, Sri Lanka.
 
 Most of my projects and research have a bias towards the field of medicine, as a result of my interest in that area. Feel free to go through my [projects](https://sites.google.com/view/kesharaw/home) to see for yourself! I desire to broaden my knowledge and research experience and continue serving the world as a whole.

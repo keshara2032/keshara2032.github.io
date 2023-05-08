@@ -1,14 +1,33 @@
 ---
 layout: archive
-title: "Portfolio"
+title: "Research"
 permalink: /portfolio/
 author_profile: true
 ---
+
+
+I am a member of the University of Virginia Dependable Systems and Analytics Group (UVA-DSA). Our research focuses on the design and validation of Resilient Cyber-Physical Systems (CPS) with applications in surgical robotics, medical devices, and autonomous systems.
+
+<br/>
+<br/>
+
+I am currently working on two research projects. The first research focuses on improving the safety of teleopration in robot-assisted surgery (RAS) by developing a safety engine which can recognize the surgeons intentions, infer the current state of the surgical procedure and monitor for unexpected failures (network failures, erroneous actions by the surgeon, etc) in order to step in and take control to alleviate the effects of failures.
+
+
+
+<br/>
+<br/>
+
+The second research focuses on developing a context-aware AR cognitive assistant system for cooperative situational awareness in medical emergencies. CognitiveEMS integrates AR smart glasses and smartwatch devices with data analytics for real-time context inference based on multimodal sensor data (audio, video, hand motion) to provide just-in-time context-dependent feedback to responders during training. 
+
+
+
 
 {% include base_path %}
 
 
 {% for post in site.portfolio %}
+  <br/>
   {% include archive-single.html %}
 {% endfor %}
 
