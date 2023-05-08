@@ -18,7 +18,7 @@ Most of my projects and research have a bias towards the field of medicine, as a
 
 * Medical Cyber Physical Systems
 * Surgical Robotics
-* AI/ML Assistence for Medical Services
+* AI/ML Assistance for Medical Services
 * Dependability and Safety in Cyber Physical Systems
   
 
