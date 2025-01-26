@@ -47,7 +47,12 @@
   white-space: nowrap;
 
   &--lg {
-    padding-right: 2em;
-    font-weight: 700;
+    padding-right: 1.0em;
+    font-weight: 300;
+  }
+
+  &--sm {
+    padding-right: 0.1em;
+    font-weight: 300;
   }
 }

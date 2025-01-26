@@ -20,9 +20,11 @@ main:
   # - title: "Projects"
   #   url: /year-archive/
     
-  - title: "CV"
+  - title: "Long CV"
     url: /cv/
 
+  - title: "Short CV"
+    url: /short_cv/
 
     
   # - title: "Guide"
