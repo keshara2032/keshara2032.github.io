@@ -203,6 +203,7 @@
 
   .visible-links {
     display: table;
+    margin: 0 auto;
 
     li {
       display: table-cell;
@@ -218,7 +219,7 @@
 
       &:last-child {
         a {
-          margin-right: 0;
+          margin-right: 0.7rem;
         }
       }
     }
