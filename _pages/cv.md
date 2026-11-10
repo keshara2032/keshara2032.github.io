@@ -1,14 +1,14 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: "Earlier Long CV"
 
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
 ---
 
-<br />
-<iframe src="/files/Long_CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+This is an earlier version of my long CV. For my latest experience and publications, see my [2026 CV](/short_cv/).
 
-You can download a PDF copy of my CV [here](/files/Long_CV.pdf).
+<iframe src="/files/Long_CV.pdf" title="Earlier long CV" width="100%" height="600" frameborder="0"></iframe>
+
+[Download the earlier long CV (PDF)](/files/Long_CV.pdf).

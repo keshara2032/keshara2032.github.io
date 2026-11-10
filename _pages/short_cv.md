@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: "Curriculum Vitae (2026)"
 
 permalink: /short_cv/
 author_profile: true
@@ -9,6 +9,6 @@ redirect_from:
 ---
 
 <br />
-<iframe src="/files/Short_CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/files/2026_CV.pdf" title="Keshara Weerasinghe's 2026 CV" width="100%" height="600" frameborder="0"></iframe>
 
-You can download a PDF copy of my CV [here](/files/Short_CV.pdf).
+[Download the 2026 CV (PDF)](/files/2026_CV.pdf).

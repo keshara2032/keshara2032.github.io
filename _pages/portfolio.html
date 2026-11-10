@@ -6,29 +6,21 @@ author_profile: true
 ---
 
 
-I am a member of the University of Virginia Dependable Systems and Analytics Group (UVA-DSA). Our research focuses on the design and validation of Resilient Cyber-Physical Systems (CPS) with applications in surgical robotics, medical devices, and autonomous systems.
+<p>I work in the University of Virginia's <a href="https://github.com/UVA-DSA">Dependable Systems and Analytics group</a> in the Link Lab. My research combines synchronized sensing and multimodal machine learning to understand human activity and support safer healthcare workflows.</p>
 
-Here is a  <a href="https://github.com/UVA-DSA" target="_blank">link</a> to our groups work.
-<br/>
-<br/>
+<h2>Current Research</h2>
 
-I am currently working on two research projects. The first research focuses on improving the safety of teleopration in robot-assisted surgery (RAS) by developing a safety engine which can recognize the surgeons intentions, infer the current state of the surgical procedure and monitor for unexpected failures (network failures, erroneous actions by the surgeon, etc) in order to step in and take control to alleviate the effects of failures.
+<h3>EgoEMS and CognitiveEMS</h3>
 
+<p>I led the collection and release of <a href="https://uva-dsa.github.io/EgoEMS/">EgoEMS</a>, an egocentric EMS dataset with more than 20 hours of data from 233 simulated emergency scenarios and 62 participants, including 46 EMS professionals. It supports research on real-time keystep recognition and action quality estimation. The related CognitiveEMS system uses wearable sensing and augmented reality to provide context-aware assistance to responders. Read the <a href="/publication/2026-egoems">EgoEMS paper</a> and <a href="/publication/2024-03-11-paper-3">CognitiveEMS paper</a>.</p>
 
+<h3>MiDAS and Surgical Activity Prediction</h3>
 
-<br/>
-<br/>
+<p>I co-developed <a href="https://uva-dsa.github.io/MiDAS/">MiDAS</a>, a platform-agnostic system for collecting synchronized surgical video and hand and foot tracking data. It was validated on Raven-II and da Vinci Xi robot-assisted surgery platforms. My related work uses multimodal Transformers for real-time surgical activity prediction and safety monitoring. Read the <a href="/publication/2026-midas">MiDAS paper</a> and <a href="/publication/2024-03-11-paper-4">surgical activity prediction paper</a>.</p>
 
-The second research focuses on developing a context-aware AR cognitive assistant system for cooperative situational awareness in medical emergencies. CognitiveEMS integrates AR smart glasses and smartwatch devices with data analytics for real-time context inference based on multimodal sensor data (audio, video, hand motion) to provide just-in-time context-dependent feedback to responders during training. 
-
-
-
+<h2>Projects</h2>
 
 {% include base_path %}
-
-
 {% for post in site.portfolio %}
-  <br/>
   {% include archive-single.html %}
 {% endfor %}
-

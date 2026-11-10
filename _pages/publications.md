@@ -9,6 +9,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+{% assign publications_by_date = site.publications | sort: 'date' | reverse %}
+{% for post in publications_by_date %}
   {% include archive-single.html %}
 {% endfor %}

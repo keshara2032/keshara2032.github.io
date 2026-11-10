@@ -108,6 +108,39 @@
   }
 }
 
+.experience__heading {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1rem;
+
+  h2 {
+    margin-top: 0;
+  }
+}
+
+.experience__logos {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding-top: 0.25rem;
+
+  img {
+    display: block;
+    width: auto;
+    object-fit: contain;
+  }
+
+  .experience__meta-logo {
+    height: 2rem;
+  }
+
+  .experience__reality-labs-logo {
+    height: 4.5rem;
+  }
+}
+
 .page__hero {
   position: relative;
   margin-bottom: 2em;

@@ -7,6 +7,9 @@ main:
   - title: "Research"
     url: /portfolio/
 
+  - title: "Experience"
+    url: /experience/
+
   - title: "Publications"
     url: /publications/
 
@@ -20,10 +23,7 @@ main:
   # - title: "Projects"
   #   url: /year-archive/
     
-  - title: "Long CV"
-    url: /cv/
-
-  - title: "Short CV"
+  - title: "CV"
     url: /short_cv/
 
     

@@ -8,19 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-<br />
-I am a 4th year Computer Engineering Ph.D student at the University of Virginia in the Dependable Systems and Analytics Lab. I received my B.S. in Computer Engineering from the University of Peradeniya, Sri Lanka.
+I am a final-year PhD candidate in Computer Engineering at the University of Virginia, where I work in the Link Lab on human sensing and multimodal systems for healthcare. I earned my BSc in Computer Engineering from the University of Peradeniya, Sri Lanka.
 
-Most of my projects and research have a bias towards the field of medicine, as a result of my interest in that area. Feel free to go through my [projects](https://sites.google.com/view/kesharaw/home) to see for yourself! I desire to broaden my knowledge and research experience and continue serving the world as a whole.
+My research brings together egocentric video and audio, wearable sensors, and machine learning to recognize human activity and support decisions in emergency medical services and robot-assisted surgery. At UVA, I have helped build [EgoEMS](https://uva-dsa.github.io/EgoEMS/), a multimodal dataset for EMS research, and [MiDAS](https://uva-dsa.github.io/MiDAS/), a data acquisition system for robot-assisted surgery. I also worked as a Research Scientist Intern at Meta Reality Labs on 3D eye localization and tracking.
 
+Explore my [research](/portfolio/), [publications](/publications/), and [experience](/experience/), or [download my current CV](/files/2026_CV.pdf).
 
 ### Research Interests
 
-* Medical Cyber Physical Systems
-* Surgical Robotics
-* AI/ML Assistance for Medical Services
-* Dependability and Safety in Cyber Physical Systems
-  
-
-
-
+* Human activity recognition from egocentric and wearable data
+* Multimodal sensing and data collection systems
+* Cognitive assistance for emergency medical services
+* Surgical robotics and safety monitoring
