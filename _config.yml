@@ -8,6 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Keshara Weerasinghe | Final-Year PhD Candidate | University of Virginia"
+masthead_focus           : "Human Sensing, Wearables & Multimodal Data Collection Systems"
 title_separator          : "-"
 name                     : &name "Keshara Weerasinghe"
 description              : &description "Final-year Computer Engineering PhD candidate at the University of Virginia researching human sensing, wearables, and multimodal systems for healthcare."

@@ -41,6 +41,30 @@
   }
 }
 
+.masthead__brand {
+  display: block;
+  padding: 0.45rem 0.7rem 0.25rem;
+  color: $masthead-link-color;
+  line-height: 1.25;
+  overflow-wrap: anywhere;
+}
+
+.masthead__title,
+.masthead__focus {
+  display: block;
+}
+
+.masthead__title {
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.masthead__focus {
+  margin-top: 0.15rem;
+  font-size: 0.875rem;
+  color: $gray;
+}
+
 .masthead__menu-item {
   display: block;
   list-style-type: none;
