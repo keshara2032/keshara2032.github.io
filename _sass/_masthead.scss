@@ -51,17 +51,14 @@
 
 .masthead__title,
 .masthead__focus {
-  display: block;
+  display: inline;
 }
 
 .masthead__title {
-  font-size: 1rem;
   font-weight: 600;
 }
 
 .masthead__focus {
-  margin-top: 0.15rem;
-  font-size: 0.875rem;
   color: $gray;
 }
 
