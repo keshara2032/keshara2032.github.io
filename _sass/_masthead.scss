@@ -41,25 +41,27 @@
   }
 }
 
-.masthead__brand {
-  display: block;
+.masthead__identity {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.5rem 2rem;
   padding: 0.45rem 0.7rem 0.25rem;
-  color: $masthead-link-color;
   line-height: 1.25;
+}
+
+.masthead__brand {
+  color: $masthead-link-color;
+  font-weight: 700;
   overflow-wrap: anywhere;
-}
-
-.masthead__title,
-.masthead__focus {
-  display: inline;
-}
-
-.masthead__title {
-  font-weight: 600;
 }
 
 .masthead__focus {
   color: $gray;
+  font-size: 0.9rem;
+  text-align: right;
+  overflow-wrap: anywhere;
 }
 
 .masthead__menu-item {

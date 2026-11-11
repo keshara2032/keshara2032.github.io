@@ -3,8 +3,10 @@ layout: archive
 title: "Experience"
 permalink: /experience/
 author_profile: true
+show_meta_experience: false
 ---
 
+{% if page.show_meta_experience %}
 <div class="experience__heading">
   <div>
     <h2>Research Scientist Intern</h2>
@@ -22,6 +24,7 @@ author_profile: true
 * Designed illumination and control PCBs and microcontroller firmware for synchronization with external motion-capture equipment. Developed automated validation tools and robotic experiments to measure accuracy and repeatability.
 
 **Tools:** Python, PyTorch, OpenCV, ONNX, TensorRT, NVIDIA Jetson, ESP32/ESP-IDF, GMSL.
+{% endif %}
 
 ## Graduate Research Assistant
 
